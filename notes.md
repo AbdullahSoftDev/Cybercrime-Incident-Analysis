@@ -7,3 +7,6 @@ Created: 2026-08-10
 
 ## Update 2026-08-13 #2
 - Updated examples
+
+## Update 2026-08-13 #3
+- Added documentation
