@@ -26,3 +26,6 @@ Cyber Crime Analysis Report
 
 ## Update 2026-08-14 #3
 - Improved notes
+
+## Update 2026-08-14 #1
+- Updated structure
